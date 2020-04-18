@@ -1,5 +1,7 @@
 # simple-pam fork showing how to use touchID authentication remotely
 
+See: https://m4.rkw.io/blog/how-to-use-touchid-for-sudo-remotely-over-ssh.html
+
 **Build the PAM module**
 
 `sudo apt install libpam-dev`
